@@ -1,0 +1,14 @@
+#box{
+    width: 10vw;
+    height: 10vw;
+    cursor: pointer;
+    display: flex;
+    position: absolute;
+    background-color: blueviolet;
+    justify-content: center;
+    align-items: center;
+}
+#box p{
+    font-size: 1.7vw;
+    color: white;
+}
